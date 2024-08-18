@@ -1,6 +1,7 @@
 # Car Prediction Project
 
 This project is designed to predict vehicle prices using web scraping, data analysis, and machine learning techniques. It provides a comprehensive Python solution for collecting, analyzing, and forecasting vehicle prices.
+Web scraping data was sourced from arabam.com, a leading automotive sales website.
 
 ## Project Overview
 
